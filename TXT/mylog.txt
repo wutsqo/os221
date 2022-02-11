@@ -3,3 +3,4 @@
 # LogCode + Description List: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 100 L02 ZOOM meetings related (tuesday class)
+ZCZC W00 30 L03 Github related
