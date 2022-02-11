@@ -1,0 +1,11 @@
+version:     "0001--11-Feb-2022"
+copyright:   "2022"
+author:      "Muhammad Urwatil Wutsqo"
+title:       "OS221: Operating Systems 2022-1"
+githublink:  "https://github.com/wutsqo/os221/"
+myloglink:   "TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
