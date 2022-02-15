@@ -6,3 +6,4 @@ ZCZC W00 100 L02 ZOOM meetings related (tuesday class)
 ZCZC W00 30 L03 Github related
 ZCZC W00 60 L06 Reading assignment
 ZCZC W00 60 L06 Reading assignment and GSGS related
+ZCZC W01 105 L02 ZOOM meetings related (tuesday class)
