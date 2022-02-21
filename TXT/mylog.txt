@@ -10,3 +10,4 @@ ZCZC W01 105 L02 ZOOM meetings related (tuesday class)
 ZCZC W01 60 L31 Install virtualbox and setup debian on it
 ZCZC W01 50 L11 Assignment #01
 ZCZC W01 50 L11 Assignment #01
+ZCZC W01 100 L02 Zoom meetings related (thursday class)
