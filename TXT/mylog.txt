@@ -12,3 +12,4 @@ ZCZC W01 50 L11 Assignment #01
 ZCZC W01 50 L11 Assignment #01
 ZCZC W01 100 L02 Zoom meetings related (thursday class)
 ZCZC W02 60 L12 Assignment #02 (Reading)
+ZCZC W02 30 L12 Assignment #02 (Watching)
