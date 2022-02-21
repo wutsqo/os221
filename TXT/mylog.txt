@@ -9,3 +9,4 @@ ZCZC W00 60 L06 Reading assignment and GSGS related
 ZCZC W01 105 L02 ZOOM meetings related (tuesday class)
 ZCZC W01 60 L31 Install virtualbox and setup debian on it
 ZCZC W01 50 L11 Assignment #01
+ZCZC W01 50 L11 Assignment #01
