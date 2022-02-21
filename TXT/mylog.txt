@@ -13,3 +13,5 @@ ZCZC W01 50 L11 Assignment #01
 ZCZC W01 100 L02 Zoom meetings related (thursday class)
 ZCZC W02 60 L12 Assignment #02 (Reading)
 ZCZC W02 30 L12 Assignment #02 (Watching)
+ZCZC W02 20 L06 References/Books/Documents/GSGS related
+ZCZC W02 480 L84 Get an eight hours of sleep, good for physical and mental health 😴
