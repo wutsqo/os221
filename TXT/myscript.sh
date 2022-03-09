@@ -1,12 +1,13 @@
 #!/bin/bash
 # Copyright (C) 2020-2022 Cicak Bin Kadal
 
-WEEK="02"
+WEEK="03"
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
+# REV08 Tue 01 Mar 2022 09:08:29 WIB
 # REV07 Sun 27 Feb 2022 17:23:54 WIB
 # REV06 Sun 20 Feb 2022 15:18:49 WIB
 # REV05 Wed 16 Feb 2022 14:40:24 WIB
