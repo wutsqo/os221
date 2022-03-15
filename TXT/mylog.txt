@@ -17,3 +17,6 @@ ZCZC W02 20 L06 References/Books/Documents/GSGS related
 ZCZC W02 480 L84 Get an eight hours of sleep, good for physical and mental health 😴
 ZCZC W02 75 L12 Finished Assignment #02
 ZCZC W03 120 L13 Finished Assignment #03
+ZCZC W04 100 L02 Tuesday class
+ZCZC W04 25 L22 Quiz
+ZCZC W04 120 L14 Assignment #04
