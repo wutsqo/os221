@@ -20,3 +20,6 @@ ZCZC W03 120 L13 Finished Assignment #03
 ZCZC W04 100 L02 Tuesday class
 ZCZC W04 25 L22 Quiz
 ZCZC W04 120 L14 Assignment #04
+ZCZC W05 100 L02 Tuesday class
+ZCZC W05 25 L22 Quiz
+ZCZC W05 120 L15 Assignment #05
