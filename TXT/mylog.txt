@@ -23,3 +23,4 @@ ZCZC W04 120 L14 Assignment #04
 ZCZC W05 100 L02 Tuesday class
 ZCZC W05 25 L22 Quiz
 ZCZC W05 120 L15 Assignment #05
+ZCZC W06 120 L16 Assignment #06
