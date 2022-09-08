@@ -1,0 +1,11 @@
+version:     "0001--8-Sep-2022"
+copyright:   "2022"
+author:      "Muhammad Urwatil Wutsqo"
+title:       "OS222"
+githublink:  "https://github.com/wutsqo/os222/"
+myloglink:   "TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
