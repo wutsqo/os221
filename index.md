@@ -5,7 +5,7 @@ By {{ site.author }}
 
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.myloglink }}) ---
-[LINKS](/os221/LINKS/) ---
+[LINKS](/os222/LINKS/) ---
 [GITHUB]({{ site.githublink }})
 
 ---
