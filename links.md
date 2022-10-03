@@ -24,3 +24,11 @@ permalink: /LINKS/
    
 2. [Compression: Crash Course Computer Science](https://youtu.be/OtDxDvCpPL4)
    Video ini menceritakan tentang _file compression_. Di dalamnya menjelaskan tentang beberapa teknik dalam melakukan _compression_. Video ini menarik karena membuat saya merasa takjub dengan metode kompresi yang bisa membuat file yang sama tapi dengan ukurang yang lebih kecil.
+
+## Week 04
+
+1. [What is Memory Swapping?](https://www.enterprisestorageforum.com/hardware/what-is-memory-swapping/)
+   Memory swapping memungkinkan os untuk "menambah" memori terhadap aplikasi yg sedang berjalan melebihi yang jumlah memori fisik yang tersedia di RAM. Proses ini dilakukan dengan membuat virtual memory di dalam media penyimpanan lain seperti HDD/SSD.
+2. [Memory Management Unit (MMU)](https://whatis.techtarget.com/definition/memory-management-unit-MMU)
+   Memory management unit adalah hardware komputer yang menghandle semua operasi memory dan caching yang berkaitan langsung dengan processor. Kegunaan utamanya yaitu hardware memory management, os memory management, dan application memory management.
+
