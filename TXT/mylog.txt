@@ -9,3 +9,5 @@ ZCZC W02 200 L09 Weekly Assignments
 ZCZC W03 200 L09 Weekly Assignments
 ZCZC W03 20 L05 Quiz
 ZCZC W04 200 L09 Weekly Assignments
+ZCZC W05 200 L09 Weekly Assignments
+

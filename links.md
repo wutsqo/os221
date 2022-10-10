@@ -32,3 +32,10 @@ permalink: /LINKS/
 2. [Memory Management Unit (MMU)](https://whatis.techtarget.com/definition/memory-management-unit-MMU)
    Memory management unit adalah hardware komputer yang menghandle semua operasi memory dan caching yang berkaitan langsung dengan processor. Kegunaan utamanya yaitu hardware memory management, os memory management, dan application memory management.
 
+## Week 05
+
+1. [What is Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+   Virtual memory adalah suatu sistem alokasi penyimpanan sekunder yang perannya seperti main memory. Pada dasarnya virtual memory menggunakan reference address untuk membedakan dengan main memory.
+
+2. [Paging vs Segmentation](https://www.guru99.com/paging-vs-segmentation-difference.html)
+   Secara umum perbedaan antara paging dan segmentation ada pada page length pada masing-masing. Pada paging, ukuran page selalu fixed, tidak dapat bertumbuh maupun menyusut. Sedangkan pada segmentation, ukuran tiap pagenya lebih dinamis, seperti program's main function, data structures, utility functions.
