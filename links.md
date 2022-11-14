@@ -39,3 +39,20 @@ permalink: /LINKS/
 
 2. [Paging vs Segmentation](https://www.guru99.com/paging-vs-segmentation-difference.html)
    Secara umum perbedaan antara paging dan segmentation ada pada page length pada masing-masing. Pada paging, ukuran page selalu fixed, tidak dapat bertumbuh maupun menyusut. Sedangkan pada segmentation, ukuran tiap pagenya lebih dinamis, seperti program's main function, data structures, utility functions.
+
+## Week 06
+
+1. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)
+   Concurrency berkaitan dengan aplikasi yang memproses lebih dari satu task dalam satu waktu. Parallelism berkaitan dengan aplikasi di mana task dibagi ke dalam subtask-subtask yang diproses secara paralel
+
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+   Fork system call digunakan untuk membuat process baru yang dinamakan child proses, yang mana berjalan secara paralel dari parent process.
+
+
+## Week 07
+
+1. [About Synchronization](https://www.studytonight.com/operating-system/process-synchronization#)
+   Process dikategorisasikan ke dalam dua tipe berdasarkan basis dari synchronization, independent process and cooperative process. 
+
+2. [What's a Deadlock?](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+   Deadlock adalah situasi di mana satu set process ter-block karena setiap proses tsb menahan sebuah resource dan menunggu resource lain yang didapat dari process lain.
