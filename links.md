@@ -56,3 +56,11 @@ permalink: /LINKS/
 
 2. [What's a Deadlock?](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
    Deadlock adalah situasi di mana satu set process ter-block karena setiap proses tsb menahan sebuah resource dan menunggu resource lain yang didapat dari process lain.
+
+## Week 09
+
+1. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)
+   CPU Scheduling adalah proses yang membuat sebuah process untuk menggunakan CPU ketika process lain sedang dalam waiting state yang dikarenakan oleh resource lain yang belum tersedia, misalnya I/O, sehingga memaksimalkan penggunaan CPU
+
+2. [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)
+   Preemptive scheduling digunakan ketika process berganti dari running ke ready state, atau waiting ke ready state. Nonpreemptive scheduling ketika process berhenti atau berganti dari running ke waiting state.
